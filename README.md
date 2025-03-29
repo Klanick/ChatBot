@@ -6,7 +6,7 @@
 
 В целях безопасности стоит также изменить `admin.token` в [application.properties](./springbot/src/main/resources/application.properties).
 
-[Исходный код](./springbot/src/main/kotlin)
+[Исходный код](./springbot/src/main/kotlin/org/example/springbot)
 
 ## [Дополнительное решение для Long Poll API](./botscript/)
 
@@ -15,4 +15,4 @@
 Для корректного запуска либо указать в переменных окружения: `VK_ACCESS_TOKEN` и `VK_GROUP_ID`.
 Либо при запуске вам будет предложенно ввести данные параметры из консоли.
 
-[Исходный код](./botscript/src/main/kotlin)
+[Исходный код](./botScript/src/main/kotlin)
