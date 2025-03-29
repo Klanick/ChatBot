@@ -1,4 +1,4 @@
-# ChatBot
+# ChatBot VK
 ## [Основное решение для Callback API](./springbot/)
 
 Для корректного запуска необходимо изменить параметры вида `connection.*` в [application.properties](./springbot/src/main/resources/application.properties).
